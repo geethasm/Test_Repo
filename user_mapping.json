@@ -1,0 +1,13 @@
+{
+  "github_to_slack": {
+    "geetha": "@07248g744",
+    "prasanna": "@Prasannakumar Patil",
+    "viswha": "@Vishwa",
+    "johndoe": "@john",
+    "umar": "@Umar Ali"
+  },
+  "github_to_email": {
+    "umarali-nagoor": "umarali@example.com",
+    "johndoe": "john@example.com"
+  }
+}
