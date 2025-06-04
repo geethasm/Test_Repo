@@ -7,12 +7,12 @@
 - Improved performance of data processing pipeline (#3)
 
 ### Bug Fixes
-- Fixed crash on startup when config file missing (#789)
-- Resolved UI glitch in dashboard panel (#101)
+- Fixed crash on startup when config file missing (#4)
+- Resolved UI glitch in dashboard panel (#3)
 
 ### Miscellaneous
 - Updated dependencies to latest stable versions
-- Documentation improvements and typo fixes (#102)
+- Documentation improvements and typo fixes (#3)
 
 ---
 
@@ -23,8 +23,8 @@
 - Improved performance of data processing pipeline (#1)
 
 ### Bug Fixes
-- Fixed crash on startup when config file missing (#789)
-- Resolved UI glitch in dashboard panel (#101)
+- Fixed crash on startup when config file missing (#5)
+- Resolved UI glitch in dashboard panel (#1)
 
 ### Miscellaneous
 - Updated dependencies to latest stable versions
