@@ -1,0 +1,142 @@
+[
+  {
+    "quarter": "Q1 2025",
+    "items": [
+      {
+        "aha_issue_number": "AHA-1001",
+        "aha_link": "https://youraha.aha.io/ideas/AHA-1001",
+        "description": "AI-based content recommendations",
+        "owner": "James Lee",
+        "status": "In Progress",
+        "target_date": "2025-01-20",
+        "watchers": ["Emily White", "Bob Brown"],
+        "linked_github_issue_title": "Build ML model for content suggestion"
+      },
+      {
+        "aha_issue_number": "AHA-1002",
+        "aha_link": "https://youraha.aha.io/ideas/AHA-1002",
+        "description": "Onboarding workflow redesign",
+        "owner": "Jane Smith",
+        "status": "Not Started",
+        "target_date": "2025-02-28",
+        "watchers": ["John Doe", "Emily White"],
+        "linked_github_issue_title": "Revamp new user onboarding flow"
+      },
+      {
+        "aha_issue_number": "AHA-1003",
+        "aha_link": "https://youraha.aha.io/ideas/AHA-1003",
+        "description": "Unified user profile system",
+        "owner": "John Doe",
+        "status": "In Progress",
+        "target_date": "2025-03-15",
+        "watchers": ["Alice Johnson", "Bob Brown"],
+        "linked_github_issue_title": "Merge identity across platforms"
+      }
+    ]
+  },
+  {
+    "quarter": "Q2 2025",
+    "items": [
+      {
+        "aha_issue_number": "AHA-2004",
+        "aha_link": "https://youraha.aha.io/ideas/AHA-2004",
+        "description": "Multi-language support",
+        "owner": "Emily White",
+        "status": "Not Started",
+        "target_date": "2025-04-25",
+        "watchers": ["Jane Smith", "John Doe"],
+        "linked_github_issue_title": "Add Spanish, French, and German translation"
+      },
+      {
+        "aha_issue_number": "AHA-2005",
+        "aha_link": "https://youraha.aha.io/ideas/AHA-2005",
+        "description": "Team collaboration tools",
+        "owner": "Bob Brown",
+        "status": "In Progress",
+        "target_date": "2025-06-10",
+        "watchers": ["James Lee", "Emily White"],
+        "linked_github_issue_title": "Shared spaces, mentions, and file comments"
+      },
+      {
+        "aha_issue_number": "AHA-2006",
+        "aha_link": "https://youraha.aha.io/ideas/AHA-2006",
+        "description": "Scheduled reporting engine",
+        "owner": "Jane Smith",
+        "status": "Not Started",
+        "target_date": "2025-06-30",
+        "watchers": ["Bob Brown", "Alice Johnson"],
+        "linked_github_issue_title": "Auto-send analytics to email weekly"
+      }
+    ]
+  },
+  {
+    "quarter": "Q3 2025",
+    "items": [
+      {
+        "aha_issue_number": "AHA-3007",
+        "aha_link": "https://youraha.aha.io/ideas/AHA-3007",
+        "description": "Accessibility enhancements",
+        "owner": "John Doe",
+        "status": "Planned",
+        "target_date": "2025-08-01",
+        "watchers": ["Emily White", "Bob Brown"],
+        "linked_github_issue_title": "WCAG 2.1 level AA compliance updates"
+      },
+      {
+        "aha_issue_number": "AHA-3008",
+        "aha_link": "https://youraha.aha.io/ideas/AHA-3008",
+        "description": "Audit trail and activity history",
+        "owner": "Alice Johnson",
+        "status": "Not Started",
+        "target_date": "2025-09-15",
+        "watchers": ["John Doe", "James Lee"],
+        "linked_github_issue_title": "Full activity timeline for admins"
+      },
+      {
+        "aha_issue_number": "AHA-3009",
+        "aha_link": "https://youraha.aha.io/ideas/AHA-3009",
+        "description": "Plugin/Extension Marketplace",
+        "owner": "James Lee",
+        "status": "In Progress",
+        "target_date": "2025-09-30",
+        "watchers": ["Jane Smith", "Emily White"],
+        "linked_github_issue_title": "Launch third-party plugin platform"
+      }
+    ]
+  },
+  {
+    "quarter": "Q4 2025",
+    "items": [
+      {
+        "aha_issue_number": "AHA-4010",
+        "aha_link": "https://youraha.aha.io/ideas/AHA-4010",
+        "description": "Real-time collaboration (live edit)",
+        "owner": "Bob Brown",
+        "status": "Not Started",
+        "target_date": "2025-10-20",
+        "watchers": ["Alice Johnson", "Jane Smith"],
+        "linked_github_issue_title": "Implement live document co-editing"
+      },
+      {
+        "aha_issue_number": "AHA-4011",
+        "aha_link": "https://youraha.aha.io/ideas/AHA-4011",
+        "description": "Zero-downtime deployment pipeline",
+        "owner": "Emily White",
+        "status": "Planned",
+        "target_date": "2025-11-15",
+        "watchers": ["James Lee", "John Doe"],
+        "linked_github_issue_title": "Canary and blue-green deployment setup"
+      },
+      {
+        "aha_issue_number": "AHA-4012",
+        "aha_link": "https://youraha.aha.io/ideas/AHA-4012",
+        "description": "End-of-year product analytics report",
+        "owner": "Jane Smith",
+        "status": "Not Started",
+        "target_date": "2025-12-10",
+        "watchers": ["Bob Brown", "Emily White"],
+        "linked_github_issue_title": "Generate annual usage and ROI report"
+      }
+    ]
+  }
+]
