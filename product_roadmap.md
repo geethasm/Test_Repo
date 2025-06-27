@@ -3,7 +3,7 @@ Q1 2025 (Jan – Mar)
 
 | Aha! Issue Number | Aha! Issue Link                                  | Description                     | Owner        | Status       | Target Date  | Watchers                      | Linked GitHub Issue Title                          |
 |-------------------|--------------------------------------------------|---------------------------------|--------------|--------------|--------------|-------------------------------|-----------------------------------------------------|
-| AHA-1001          | [AHA-1001](https://youraha.aha.io/ideas/AHA-1001) | AI-based content recommendations | James Lee    | In Progress  | 2025-01-20   | Emily White, Bob Brown         | Build ML model for content suggestion               |
+| AHA-1001          | [AHA-1001](https://youraha.aha.io/ideas/AHA-1001) | AI-based content recommendations | James Lee    | In Progress  | 2025-01-20   | Emily White, Bob Brown         | Schedule workshop on AHA and ML-based prioritization               |
 | AHA-1002          | [AHA-1002](https://youraha.aha.io/ideas/AHA-1002) | Onboarding workflow redesign     | Jane Smith   | Not Started  | 2025-02-28   | John Doe, Emily White          | Revamp new user onboarding flow                     |
 | AHA-1003          | [AHA-1003](https://youraha.aha.io/ideas/AHA-1003) | Unified user profile system      | John Doe     | In Progress  | 2025-03-15   | Alice Johnson, Bob Brown       | Merge identity across platforms                     |
 
