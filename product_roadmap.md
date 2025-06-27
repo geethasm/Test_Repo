@@ -15,6 +15,12 @@ Q2 2025 (Apr – Jun)
 | AHA-2004          | [AHA-2004](https://youraha.aha.io/ideas/AHA-2004) | Multi-language support           | Emily White  | Not Started  | 2025-04-25   | Jane Smith, John Doe           | Add Spanish, French, and German translation         |
 | AHA-2005          | [AHA-2005](https://youraha.aha.io/ideas/AHA-2005) | Team collaboration tools         | Bob Brown    | In Progress  | 2025-06-10   | James Lee, Emily White         | Shared spaces, mentions, and file comments          |
 | AHA-2006          | [AHA-2006](https://youraha.aha.io/ideas/AHA-2006) | Scheduled reporting engine       | Jane Smith   | Not Started  | 2025-06-30   | Bob Brown, Alice Johnson       | Auto-send analytics to email weekly                 |
+| AHA-1004          | [AHA-1004](https://youraha.aha.io/ideas/AHA-1004) | Terraform v1.10 compatibility patch  | Geetha R     | In Progress  | 2025-04-18   | James Lee, Emily White         | Add support for Terraform v1.10 in Schematics         |
+| AHA-1005          | [AHA-1005](https://youraha.aha.io/ideas/AHA-1005) | Schematics audit automation module   | John Doe     | Not Started  | 2025-05-10   | Jane Smith, Bob Brown          | Script control evidence capture for compliance        |
+| AHA-1006          | [AHA-1006](https://youraha.aha.io/ideas/AHA-1006) | Slack trigger-based issue triage     | Jane Smith   | In Progress  | 2025-05-28   | Geetha R, Emily White          | Enable zero-touch incident response via Slack         |
+| AHA-1007          | [AHA-1007](https://youraha.aha.io/ideas/AHA-1007) | Q2 team enablement on AI tooling     | Emily White  | Planned      | 2025-06-05   | James Lee, John Doe            | Schedule workshop on AHA and ML-based prioritization  |
+| AHA-1008          | [AHA-1008](https://youraha.aha.io/ideas/AHA-1008) | Blueprint metadata validation tool   | Bob Brown    | In Review    | 2025-06-20   | Geetha R, Jane Smith           | Build CLI tool to validate metadata compliance        |
+
 
 Q3 2025 (Jul – Sep)
 
