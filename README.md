@@ -29,7 +29,7 @@ The offering mainly identifies the stale, irrelevant, open issues, and notify th
  
 ### System Architecture
 
-![Architecture Diagram](images/H_LLM.png)
+![Architecture Diagram](Images/H_LLM.png)
 
 
 The LLM powered GitHub issue triage system architecture comprises three layers:
@@ -46,7 +46,7 @@ The LLM powered GitHub issue triage system architecture comprises three layers:
 
 ### Technologies
 
-![Applied technologies](images/H_User_Flow.png)
+![Applied technologies](Images/H_User_Flow.png)
  
 - GPT-4, Claude, LLaMA 3 for LLM capabilities
 - Slack Bolt API for team communication
